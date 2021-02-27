@@ -239,7 +239,7 @@
 /* WATER AREAS
 /* ================================================================== */
 
-Map { background-color: @water; }
+// Map { background-color: @water; }
 
 /*#water_gen0[zoom>3][zoom<=9] { polygon-fill: @water; }
 #water_gen1[zoom>9][zoom<=12] { polygon-fill: @water; } */

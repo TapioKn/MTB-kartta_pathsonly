@@ -44,7 +44,8 @@
         180,
         83.6664731
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -63,7 +64,8 @@
         179.9999999749438,
         83.6664731
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -94,7 +96,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -125,7 +128,8 @@
         37.94663809471778,
         70.48655359530966
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -156,7 +160,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -187,7 +192,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -218,7 +224,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -249,7 +256,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -280,7 +288,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -311,7 +320,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -339,7 +349,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -370,7 +381,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -398,7 +410,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "cliffs"
+      "name": "cliffs",
+      "status": "off"
     },
     {
       "Datasource": {
@@ -428,7 +441,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -459,7 +473,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -490,7 +505,8 @@
         26.04166779637495,
         62.32136439480962
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -521,7 +537,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -552,7 +569,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -611,7 +629,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "roads_construction"
+      "name": "roads_construction",
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -673,7 +692,8 @@
         26.01575099637855,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -704,7 +724,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "sidewalks"
+      "name": "sidewalks",
+      "status": "off"
     },
     {
       "Datasource": {
@@ -735,7 +756,8 @@
         25.43746119645908,
         63.03240199483504
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -763,7 +785,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -791,7 +814,8 @@
         26.07357629637057,
         62.320306794809625
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -819,7 +843,8 @@
         26.01575099637855,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -878,7 +903,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -936,7 +962,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "roofs"
+      "name": "roofs",
+      "status": "off"
     },
     {
       "extent": [
@@ -963,7 +990,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "reedbeds"
+      "name": "reedbeds",
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -994,7 +1022,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "constructs_line"
+      "name": "constructs_line",
+      "status": "off"
     },
     {
       "Datasource": {
@@ -1025,7 +1054,8 @@
         25.191827396493274,
         62.999604994833774
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -1056,7 +1086,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -1087,7 +1118,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "Datasource": {
@@ -1118,7 +1150,8 @@
         26.091205296368106,
         62.35912879481087
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -1204,7 +1237,8 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "point_names"
+      "name": "point_names",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -1291,7 +1325,8 @@
         25.182332096494612,
         63.03240199483504
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     }
   ],
   "scale": 1,
